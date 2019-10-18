@@ -1,4 +1,4 @@
-### Divergente
+﻿### Divergente
 En el Chicago distópico de Beatrice Prior, la sociedad está dividida en cinco
 facciones, cada una de ellas dedicada a cultivar una virtud concreta: Verdad
 (los sinceros), Abnegación (los altruistas), Osadía (los valientes),
@@ -18,7 +18,17 @@ o... para acabar muerta. Novela juvenil.
 
 
 ### Insurgente
-Completar...
+Una sola opción puede transformarte, o te puede destruir, pero
+siempre tiene consecuencias. Con la oleada de disturbios en las 
+distintas facciones, Tris deberá asegurarse de proteger a los que 
+ama, mientras se enfrenta a inquietantes preguntas sobre la 
+culpabilidad, el perdón, la identidad, la lealtad, la política y el amor. 
+El día de la iniciación de Tris debería haber sido una celebración de la
+facción elegida, en cambio, el día terminó con un gran problema. 
+El conflicto entre las facciones se intensifica y las ideologías se enfrentan. 
+En tiempos de guerra, se eligen líderes y los secretos afloran… cada decisión 
+tiene mayores consecuencias más potentes.
+
 
 
 ### Leal
