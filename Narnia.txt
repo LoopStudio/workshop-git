@@ -1,4 +1,4 @@
-### El león, la bruja y el armario
+﻿### El león, la bruja y el armario
 En este libro, los hermanitos Pevensie: Peter, Susan, Lucy y Edmund encuentran,
 en la casa del profesor Kirke, un armario mágico que los lleva hasta la tierra
 de Narnia, un lugar en donde alguna vez reinó la paz, pero que ahora yace bajo
@@ -39,7 +39,16 @@ y han aprendido cosas de adultos.
 
 
 ### La travesía del viajero de Alba
-Completar...
+Por su parte, este libro narra el tercer viaje de Lucy y Edmund Pevensie 
+a Narnia, quienes esta vez son acompañados por su primo Eustace. Esta
+vez, los hermanos acompañarán al rey Caspian X y a Reepicheep –el fiel 
+ratón que siempre acompaña al soberano- a un viaje marítimo, en donde 
+se encaminarán hacia el fin del mundo, en aguas que nadie ha surcado 
+jamás, en búsqueda de los siete lores, que Miraz desterró, cuando tomó 
+para sí el trono de Narnia. Luego de un viaje lleno de aventuras y seres 
+de fantasía, Lucy y Edmund descubren que este será su último viaje a 
+Narnia, pues están a punto de dejar de ser niños. Por el contrario, Eustace 
+volverá una vez más.
 
 
 ### La silla de plata
